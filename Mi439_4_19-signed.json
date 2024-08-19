@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "EAZY BLACK",
+        "oem": "Xiaomi",
+        "device": "Redmi 7A/8 Series",
+        "filename": "crDroidAndroid-11.0-20240819-Mi439_4_19-v7.45.zip",
+        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-11.0-20240819-Mi439_4_19-v7.45/crDroidAndroid-11.0-20240819-Mi439_4_19-v7.45.zip",
+        "timestamp": 1724054988,
+        "md5": "c2da195830b3585cbe5a9dbd4fe40851",
+        "size": 989309622,
+        "version": "7.45",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/Redmi8AOfficial",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/13-Aug-2024/NikGapps-core-arm64-11-20240813-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/Redmi8AOfficial"
+    }
+  ]
+}
