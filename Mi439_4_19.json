@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "EAZY BLACK",
+        "oem": "Xiaomi",
+        "device": "Redmi 7A/8 Series",
+        "filename": "crDroidAndroid-13.0-20240821-Mi439_4_19-v9.19.zip",
+        "download": "https://github.com/EAZYBLACK/romOTA/releases/download/crDroidAndroid-13.0-20240821-Mi439_4_19-v9.19/crDroidAndroid-13.0-20240821-Mi439_4_19-v9.19.zip",
+        "timestamp": 1724169657,
+        "md5": "5e22b97d957e07b2546eac2cdff2b21b",
+        "sha256": "b733cb0b5ed69bf24c9fae1fdd7a29feb16b4087849bfa0f88fa90aa8a4c1000",
+        "size": 1121729417,
+        "version": "9.19",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/Redmi8AOfficial",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/13-Aug-2024/NikGapps-core-arm64-13-20240813-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/Redmi8AOfficial",
+        "dt": "https://github.com/Mi-Thorium/android_device_xiaomi_mi439",
+        "common-dt": "https://github.com/Mi-Thorium/android_device_xiaomi_mithorium-common",
+        "kernel": "https://github.com/Mi-Thorium/kernel_msm-4.19"
+    }
+  ]
+}
